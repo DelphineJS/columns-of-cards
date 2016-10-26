@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  font-family: 'Open Sans', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  display: inline-block;
+}
